@@ -1,0 +1,2 @@
+# SqlLocalDBManager
+Manages SqlLocalDb
